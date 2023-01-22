@@ -1,7 +1,6 @@
 # <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/springboot.svg" /> Code_Sharing_Platform <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/postman.svg" />
-### The objective of this project:
-Store all the code snippets that have been uploaded to the program.
-### Examples:
+The objective of this project is to store all the code snippets that have been uploaded to the program.
+## Examples
 <details>
 <summary>Example 1: a POST /api/code/new requests with the body</summary>
 
